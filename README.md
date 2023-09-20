@@ -30,10 +30,3 @@ The project will be divided into the following stages:
 3. **Interactivity (Optional):** If the original FreeCodeCamp page has interactive features, such as forms or dropdowns, we will add interactivity using JavaScript.
 
 4. **Testing and Refinement:** We will thoroughly test the cloned page and make any necessary refinements to ensure it closely resembles the original.
-
-
-
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
