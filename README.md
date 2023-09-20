@@ -31,15 +31,7 @@ The project will be divided into the following stages:
 
 4. **Testing and Refinement:** We will thoroughly test the cloned page and make any necessary refinements to ensure it closely resembles the original.
 
-## Getting Started
 
-To get started, you can create a new directory for your project and set up the necessary HTML, CSS, and JavaScript files. You can use the FreeCodeCamp landing page as a reference for the content and design.
-
-## Conclusion
-
-By completing this project, you will gain valuable experience in web development and design. It's an excellent opportunity to practice your HTML, CSS, and JavaScript skills while replicating a real-world web page.
-
-Happy coding!
 
 
 ### `npm run build` fails to minify
